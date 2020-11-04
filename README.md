@@ -2,4 +2,4 @@
 
 Se puede ver en:
 
-arteentusmanos.netlify.app
+https://arteentusmanos.netlify.app/
